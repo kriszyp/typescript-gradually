@@ -1,0 +1,17 @@
+{
+  "name": "typescript-gradually",
+  "author": "Kris Zyp",
+  "version": "0.0.1",
+  "description": "TypeScript on .js files",
+  "license": "BSD-3-Clause",
+  "licenses": [
+    {
+      "type": "AFLv2.1",
+      "url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L43"
+    },
+    {
+      "type": "BSD-3-Clause",
+      "url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13"
+    }
+  ]
+}
